@@ -1,5 +1,5 @@
 
-Целевая позиция: ETL-разработчик/ Data Analyst (Аналитик данных полного цикла), Промышленный / Операционный Аналитик Данных (Operations / Business Data Analyst)
+Целевая позиция: Младший ETL-разработчик / Data Engineer (Инженер данных) или Data Analyst (Аналитик данных полного цикла), Промышленный / Операционный Аналитик Данных (Operations / Business Data Analyst)
 Контакты: 
 GitHub: https://github.com/Vi-Sv/SQL_PROJECT_V
 Местоположение: Саратов, Россия
