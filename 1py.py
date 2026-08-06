@@ -79,10 +79,10 @@ def create_resume():
     # --- ЧАСТЬ 1: ШАПКА И КОНТАКТЫ ---
     story.append(Paragraph("<b>Свистин Виктор Андреевич</b>", name_style))
     story.append(Paragraph("Дата рождения: 02.01.2001", dob_style))
-    story.append(Paragraph("<b>ЖЕЛАЕМАЯ ДОЛЖНОСТЬ:</b> Младший ETL-разработчик / Начинающий Дата-инженер / Аналитик данных / Операционный аналитик", subtitle_style))
+    story.append(Paragraph("<b>ЦЕЛЕВАЯ ДОЛЖНОСТЬ:</b> Младший ETL-разработчик / Начинающий Дата-инженер / Аналитик данных / Операционный аналитик", subtitle_style))
     
     contact_data = [
-        [Paragraph("<b>Номер телефона/telegram:</b> 8(962)625-80-06", body_style)],
+        [Paragraph("<b>Номер телефона/ telegram:</b> 8(962)625-80-06", body_style)],
         [Paragraph("<b>Почта:</b> Svistin64.v@gmail.com", body_style), 
          Paragraph("<b>Местоположение:</b> Саратов, Россия (Готов к удаленной работе / гибриду)", body_style)]
     ]
